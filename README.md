@@ -8,7 +8,7 @@ This repository is one of several reference implementations of the "Money Burned
 
 - Application type: **[Desktop-/Mobile-/Web-App]**
 - Available for: **[OS-and-Runtime-Environments]**
-- Framwork/Technology used: **[Dev-Framework]**
+- Framework/Technology used: **[Dev-Framework]**
 - Programming Language used: **[Dev-Language]**
 - User interaction: **[GUI/CLI/VR/other]** 
 
