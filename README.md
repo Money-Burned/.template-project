@@ -1,12 +1,12 @@
 # Money Burned: [your-repo-name]
 
-This repository is one of several reference implementations of the "Money Burned" application to illustrate the use of a specific development technology/platform. To learn more about it, check out the [organization profile](https://github.com/Money-Burned).  
+This repository is one of several reference implementations of the application "Money Burned" to illustrate the use of a particular development technology/platform. To learn more about it, check out the [organization profile](https://github.com/Money-Burned).  
 
 [A few words about what makes this implementaion useful and relevant. If you feel like it, you can add a single, not too large screenshot (the height should not be more than a third of the visible text - the lower the better) to give an impression of how your implementation will look.]
 
 ## Quick facts
 
-- Application type: **[Desktop-/Mobile-/Web-App]**
+- Application type: **[Desktop-/Web-/Mobile-App]**
 - Available for: **[OS-and-Runtime-Environments-and-Version]**
 - Framework/Technology used: **[Dev-Framework]**
 - Programming Language used: **[Dev-Language]**
@@ -46,6 +46,7 @@ For information about the development process of this appliacation please refer 
 Please ensure that you have tackled and completed all the tasks on the list by the time your implementation is published.  
 
 - [ ] Replace all placeholders (in square brackets, except those due to hyperlinks) in this file with meaningful information
+- [ ] Have a reference to the [organization profile of "Money Burned"](https://github.com/Money-Burned) (including hyperlink) integrated into the user interface of your application
 - [ ] Have the file [dev-approach.md](./doc/dev-approach.md) reviewed and completed
 - [ ] Make sure your project aligns with the minimal [suggested folder structure](https://github.com/Money-Burned/.github/blob/main/CONTRIBUTING.md#folder-structure) 
 - [ ] Have the file [LICENSE.md](./LICENSE.md) reviewed and modified by your needs but please keep it open source; reference to the license terms of the organization including a hyperlink is mandatory
