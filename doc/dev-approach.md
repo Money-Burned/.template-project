@@ -63,6 +63,8 @@
 
 - Outline the class model of the application if you use OOP; feel encouraged to use graphics like UML
 - Outline the persistence of your application if it is implemented; feel encouraged to use graphics like ERM
+    - Config data
+    - Usage data
 
 ### Logic
 
@@ -82,4 +84,4 @@ Please write a guide on what steps a developer who is completely new to this fra
 
 In this document you can explain everything about your journey to create this software. Whatever it takes - just make sure that an interested reader is able to understand what you've done so far and how.  
 
-I would be appreciated if you could at least briefly explain the above points.  
+I would be appreciated if you could at least briefly explain the above points. If you would like to write more and really go into depth, you are welcome to create additional separate files in the doc directory that deal with specific points in detail.  
